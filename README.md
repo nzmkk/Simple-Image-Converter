@@ -1,6 +1,8 @@
 # Simple-Image-Converter
-Small python app that may help you a lot.
+Small open-source python app that may help you a lot.
 
+# How to install
+Download in Releases or install source code and compile manually
 # How to use
 1. Drag & Drop folder with images or select it manually
 2. Click "Convert Images"
