@@ -8,7 +8,13 @@ SUPPORTED_EXTENSIONS = ['.png',
                         '.tiff',
                         '.webp',
                         '.gif',
-                        '.ico']
+                        '.ico',
+                        '.heif',
+                        '.jp2',
+                        '.j2k',
+                        '.jpf',
+                        '.pdf'
+                        ]
 SAVE_FOLDER = "saved"
 
 
